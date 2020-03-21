@@ -13,11 +13,7 @@ public class SpTestApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpTestApplication.class, args);
 
-    }
 
-    @EventListener(ApplicationReadyEvent.class)
-    public void printHello(){
-        System.out.println("hello World");
     }
 
     @Bean
@@ -28,3 +24,4 @@ public class SpTestApplication {
         return source;
     }
 }
+

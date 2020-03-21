@@ -1,4 +1,4 @@
-package com.arek_stadnik.sptest;
+package com.arek_stadnik.sptest.week1.car;
 
 public class Car {
     public Car(String mark, String model) {

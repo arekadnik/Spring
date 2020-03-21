@@ -1,6 +1,6 @@
-package com.arek_stadnik.sptest.Card;
+package com.arek_stadnik.sptest.week1.card;
 
-import com.arek_stadnik.sptest.Car;
+import com.arek_stadnik.sptest.week1.car.Car;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

@@ -1,6 +1,6 @@
-package com.arek_stadnik.sptest;
+package com.arek_stadnik.sptest.week1.car;
 
-import com.arek_stadnik.sptest.Card.CarService;
+import com.arek_stadnik.sptest.week1.card.CarService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
