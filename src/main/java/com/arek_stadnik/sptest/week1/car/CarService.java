@@ -1,4 +1,4 @@
-package com.arek_stadnik.sptest.week1.card;
+package com.arek_stadnik.sptest.week1.car;
 
 import com.arek_stadnik.sptest.week1.car.Car;
 import org.springframework.stereotype.Service;

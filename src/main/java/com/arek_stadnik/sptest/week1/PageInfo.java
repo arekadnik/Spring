@@ -1,4 +1,4 @@
-package com.arek_stadnik.sptest;
+package com.arek_stadnik.sptest.week1;
 
 import org.springframework.boot.context.event.ApplicationReadyEvent;
 import org.springframework.boot.context.properties.ConfigurationProperties;
